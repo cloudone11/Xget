@@ -16,6 +16,7 @@
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  */
 
+
 import { CONFIG, createConfig } from './config/index.js';
 import { transformPath } from './config/platforms.js';
 
